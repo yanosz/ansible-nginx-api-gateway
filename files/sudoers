@@ -1,0 +1,4 @@
+#
+# Ansible managed configuration - do not edit
+#
+dehydrated ALL=(root) NOPASSWD: /usr/sbin/service nginx reload

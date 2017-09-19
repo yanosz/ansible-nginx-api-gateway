@@ -1,0 +1,7 @@
+nginx_api_gateway:
+  listen:
+    - 'listen 80'
+    - 'listen [::]:80'
+  listen_ssl:
+    - 'listen 443 ssl'
+    - 'listen [::]:443 ssl'
